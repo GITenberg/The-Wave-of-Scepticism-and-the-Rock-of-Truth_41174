@@ -1,0 +1,28 @@
+_repo: The-Wave-of-Scepticism-and-the-Rock-of-Truth_41174
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Habershon, M. H. (Matthew Henry)
+    alias: Habershon, Matthew Henry
+    birthdate: 1821
+    gutenberg_agent_id: '41020'
+    url: http://www.gutenberg.org/2009/agents/41020
+description: ''
+gutenberg_issued: '2012-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41174'
+  lccn: '37036776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. New Testament -- Evidences, authority, etc.'
+- !lcsh 'Cassels, Walter Richard, 1826-1907. Supernatural religion'
+- !lcc 'BL'
+title: The Wave of Scepticism and the Rock of Truth
+url: http://www.gutenberg.org/ebooks/41174
