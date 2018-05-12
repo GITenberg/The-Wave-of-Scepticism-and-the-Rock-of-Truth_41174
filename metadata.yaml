@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41020'
     url: http://www.gutenberg.org/2009/agents/41020
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41174#The-Wave-of-Scepticism-and-the-Rock-of-Truth
 gutenberg_issued: '2012-10-25'
 gutenberg_type: Text
 identifiers:
